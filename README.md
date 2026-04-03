@@ -38,6 +38,7 @@ cd <your-project-folder>
 
 2️⃣ Setup Environment Variables
 
+```bash
 Create a .env file in the backend folder:
 MONGODB_URI=your_mongodb_uri
 PORT=5001
@@ -48,21 +49,30 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
 NODE_ENV=development
+```
 
 3️⃣ Install Dependencies
+```bash
 npm install
+```
 
 4️⃣ Build Frontend
+```bash
 npm run build
+```
 
 5️⃣ Run the App
+```bash
 npm start
+```
 
 🌐 Deployment
 
-The app is deployed on Render.
+The app is deployed on Render.  
 
-Make sure to update environment variables in production.
+Make sure to update environment variables in production.  
+
+---
 
 ⚠️ Important Notes
 Ensure MongoDB is running or use MongoDB Atlas

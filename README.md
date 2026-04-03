@@ -75,6 +75,7 @@ Make sure to update environment variables in production.
 ---
 
 ⚠️ Important Notes  
+
 Ensure MongoDB is running or use MongoDB Atlas  
 Update CORS settings for production  
 Keep your .env file secure (never commit it)  

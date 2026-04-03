@@ -36,7 +36,8 @@ git clone <your-repo-url>
 cd <your-project-folder>
 ```
 
-2️⃣ Setup Environment Variables  
+2️⃣ Setup Environment Variables
+
 Create a .env file in the backend folder:
 ```bash
 MONGODB_URI=your_mongodb_uri

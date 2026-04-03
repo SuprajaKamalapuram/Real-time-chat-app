@@ -37,9 +37,8 @@ cd <your-project-folder>
 ```
 
 2️⃣ Setup Environment Variables
-
-```bash
 Create a .env file in the backend folder:
+```bash
 MONGODB_URI=your_mongodb_uri
 PORT=5001
 JWT_SECRET=your_secret_key
